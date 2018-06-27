@@ -1,1 +1,3 @@
 This is simple text file that I am working on for the GIT Brackets IO
+
+This is a new line after the file was initially committed to gitbub
