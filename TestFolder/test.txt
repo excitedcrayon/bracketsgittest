@@ -1,0 +1,1 @@
+This is simple text file that I am working on for the GIT Brackets IO
